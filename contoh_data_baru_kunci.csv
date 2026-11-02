@@ -1,0 +1,11 @@
+Age,Chronic_Pain_Level,BMI,Menstrual_Irregularity,Hormone_Level_Abnormality,Infertility,status
+28,6.74,23.67,1,0,0,Normal
+38,4.26,18.84,1,1,1,Endometriosis
+26,3.75,18.83,1,0,1,Normal
+31,4.21,26.37,1,0,0,Normal
+20,2.09,22.44,0,0,0,Normal
+31,4.05,24.53,1,1,0,Endometriosis
+32,5.73,19.67,0,0,0,Normal
+35,6.29,15.13,1,0,1,Normal
+30,4.92,27.29,0,0,0,Normal
+40,9.1,21.52,1,1,1,Endometriosis

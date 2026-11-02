@@ -1,0 +1,43 @@
+{
+  "nama_model": "DNN (MLPClassifier 16-8)",
+  "fitur_numerik": [
+    "Age",
+    "Chronic_Pain_Level",
+    "BMI"
+  ],
+  "fitur_kategori": [
+    "Menstrual_Irregularity",
+    "Hormone_Level_Abnormality",
+    "Infertility"
+  ],
+  "kelas": [
+    "Endometriosis",
+    "Normal"
+  ],
+  "rentang_fitur": {
+    "Age": [
+      18.0,
+      49.0
+    ],
+    "Chronic_Pain_Level": [
+      0.0,
+      10.0
+    ],
+    "BMI": [
+      15.0,
+      35.52973877943138
+    ]
+  },
+  "metrik": {
+    "accuracy": 0.56,
+    "f1_macro": 0.5397,
+    "f1_baseline": 0.3711,
+    "n_test": 200
+  },
+  "versi": {
+    "scikit-learn": "1.6.1",
+    "pandas": "2.2.3",
+    "numpy": "2.1.3",
+    "joblib": "1.6.0"
+  }
+}
